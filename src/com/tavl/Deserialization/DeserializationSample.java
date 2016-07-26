@@ -10,7 +10,6 @@ import java.util.Arrays;
 import java.util.List;
 
 import com.google.gson.Gson;
-import com.tavl.Domain.AdvanceObjectList;
 import com.tavl.Domain.Message;
 import com.tavl.Domain.MessageData;
 import com.tavl.Utilities.Conversion;
